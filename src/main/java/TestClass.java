@@ -3,4 +3,6 @@
  */
 public class TestClass
 {
+	String id;
+	String name;
 }
